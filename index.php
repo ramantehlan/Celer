@@ -28,7 +28,42 @@
 					Unlock the true power of your program
 			</div>
 			<div class='sub_heading'>
-					We process your program on a network of devices.
+					We process your program on a decentralized network of distributed devices.
+			</div>
+			<div class='content'>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/upload.png'>
+						</div>
+						<div class='step_name'>
+							Upload
+						</div>
+						<div class='step_about'>
+								
+						</div>
+				</div>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/processor.png'>
+						</div>
+						<div class='step_name'>
+							Process
+						</div>
+						<div class='step_about'>
+
+						</div>
+				</div>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/experiment-results.png'>
+						</div>
+						<div class='step_name'>
+							Result
+						</div>
+						<div class='step_about'>
+
+						</div>
+				</div>
 			</div>
 	</div>
 
