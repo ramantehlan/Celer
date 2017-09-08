@@ -39,7 +39,7 @@
 							Upload
 						</div>
 						<div class='step_about'>
-								
+								Upload your program and required data to our servers.
 						</div>
 				</div>
 				<div class='step'>
@@ -50,7 +50,7 @@
 							Process
 						</div>
 						<div class='step_about'>
-
+								We will convert your program in a parallel program to process it on our network at a much faster rate.
 						</div>
 				</div>
 				<div class='step'>
@@ -61,7 +61,7 @@
 							Result
 						</div>
 						<div class='step_about'>
-
+								See your results on your account with rich amount of data visualization.
 						</div>
 				</div>
 			</div>
