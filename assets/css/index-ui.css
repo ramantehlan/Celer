@@ -1,0 +1,40 @@
+.top{width: 100%;
+    height:80px;
+    position:fixed;
+    top:0%;
+    left:0%;
+    /*background:#4B2142;*/
+}
+
+.logo img{width:38px;
+          height:38px;
+          float:left;
+          margin-right:12px;
+}
+
+.logo{line-height:38px;
+      font-size:30px;
+      font-family:rocko;
+       margin-top: 22px;
+       margin-left:30px;
+}
+
+#particles-js{
+  position:fixed;
+  top:0%;
+  left:0%;
+  width: 100%;
+  height: 100%;
+  opacity:0.6;
+}
+
+.body{width:1000px;
+      margin:0px auto;
+      margin-top:150px;
+}
+
+.heading{font-size:36px;
+        font-family:roboto-m;
+        text-align: center;
+        text-shadow:1px 1px 1px rgba(0,0,0,0.15);
+}
