@@ -30,7 +30,7 @@
 
 .body{width:1000px;
       margin:0px auto;
-      margin-top:150px;
+      margin-top:140px;
 }
 
 .heading{font-size:36px;
@@ -38,3 +38,41 @@
         text-align: center;
         text-shadow:1px 1px 1px rgba(0,0,0,0.15);
 }
+
+.sub_heading{text-align:center;
+              font-size:18px;
+              font-family: roboto-t;
+              margin-top:15px;
+        text-shadow:1px 1px 1px rgba(0,0,0,0.08);
+}
+
+.content{width:1000px;
+         margin:0px auto;
+         margin-top:60px;
+         border-radius:5px;
+         background-color:rgba(0,0,0,0.3);
+         padding:20px;
+         float:left;
+}
+
+.step{width:250px;
+      margin-left:62.5px;
+      float:left;
+}
+
+.step_img{width:50px;
+          margin:0px auto;
+}
+
+.step_img img{width:50px;}
+
+.step_name{margin-top:10px;
+           text-align:center;
+           font-size:18px;
+           font-family: roboto-m;
+}
+
+.step_about{text-align:center;
+           margin-top:20px;
+}
+
