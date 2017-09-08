@@ -13,8 +13,28 @@
 </head>
 <body>
 
+<!-- particles.js container -->
+<div id="particles-js"></div>
 	
+	<div class='top'>
+		<div class='logo'>
+			<img src='assets/images/icon_64_white.png'>
+			Celer
+		</div>
+	</div>
+
+	<div class='body'>
+			<div class='heading'>
+					We make your program run faster
+			</div>
+			<div class='sub_heading'>
+					W
+			</div>
+	</div>
 
 
 </body>
+
+	<script type="text/javascript" src='assets/javascript/particles.js'></script>
+	<script type="text/javascript" src="assets/javascript/particle_network.js"></script>
 </html>
