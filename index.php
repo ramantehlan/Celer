@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Celer - #1 Processing distribution system</title>
+	<title>#1 Process distribution app</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/jquery-ui.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/comman-ui.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/index-ui.css">
@@ -25,10 +25,10 @@
 
 	<div class='body'>
 			<div class='heading'>
-					We make your program run faster
+					Unlock the true power of your program
 			</div>
 			<div class='sub_heading'>
-					W
+					We process your program on a network of devices.
 			</div>
 	</div>
 
