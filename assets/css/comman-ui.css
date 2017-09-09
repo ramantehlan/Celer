@@ -3,13 +3,9 @@ html{
        max-width:100%;
        margin:0px;
        font-size:15px;
-       background-attachment:fixed;
        font-family:roboto-r; 
-       background-size:100%;
-       color:#fff;
-         background-attachment:fixed;
-       background:linear-gradient(60deg, #D4E8F9, #C7DCED);
-       background:linear-gradient(60deg, #EFEFEF, #DDDDDD);
+       color:#eeeeee;
+       background-color:#C7DCED;
 }
 
 body{
