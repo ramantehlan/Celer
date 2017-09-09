@@ -59,11 +59,14 @@ Date of creation:09/09/2017
 
 	<script type="text/javascript" src='assets/javascript/jquery.js'></script>
 	<script type="text/javascript" src='assets/javascript/jquery-ui.js'></script>
+	<script type="text/javascript" src="assets/javascript/chart.js"></script>
 	<script type="text/javascript" src="assets/javascript/tooltip.js"></script>
+	<script type="text/javascript" src="assets/javascript/open_effects.js"></script>
+
 </head>
 <body>
 
-<div class='topbar_frame'>
+<div class='topbar_frame <?php if($user_type == "API user"){echo "api_top";} ?>'>
 
 	
         <div class='page_name'>
@@ -137,7 +140,7 @@ Date of creation:09/09/2017
 				
 				<div class='leftmenu_row_icon'>
 						<img src="assets/images/logout.png">
-				</div>
+				</div>                                                                                            
 				
 				<div class="tooltip_box menu_tooltip_box">
 						Logout
