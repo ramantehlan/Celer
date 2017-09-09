@@ -51,24 +51,45 @@
 
 
 .body{
-	width:1000px;
+	width:900px;
 	margin:0px auto;
-	margin-top:80px;
+	margin-top:90px;
 }
 
 
-.group_0{height:140px;
+.group_0{height:150px;
 		margin-top:-10px;
-		 margin-bottom:20px;
+		 margin-bottom:25px;
 }
 
-.group_1{height:452px;
+.group_1{
 		 margin-bottom:20px;
-}
+		 }
 
 .group_2{
 		 height:430px;
-		 margin-bottom:40px;
+		 width:400px;
+		 margin:0px auto;
+		 margin-top:40px;
+
+}
+
+
+.group_11{
+		 margin-bottom:25px;
+}
+
+.group_12{height:150px;
+		 margin-top:20px;
+		 margin-bottom:20px;
+		 }
+
+.group_13{
+		 height:430px;
+		 width:400px;
+		 margin:0px auto;
+		 margin-top:40px;
+
 }
 
 .cards{width:380px;
@@ -77,8 +98,71 @@
 	   float:left;
 }
 
+#processing_box {
+	width:650px;
+	border-radius:5px;
+	margin-top:30px;
+	margin-left:-15px;
+	margin-bottom:-10px;
+	float:left;
+}
+
+
+#task_box{
+		width:330px;
+		margin:0px auto;
+		margin-top:40px;
+						}
+
+
+.cards:first-child{margin-left:0px;}
+
 .heading_total img{background:linear-gradient(60deg, #6C91C2, #6C28D9);}
 .heading_active img{background:linear-gradient(60deg, #A49966, #A4A11C);}
+.heading_processing img{background:linear-gradient(60deg, #B4656F, #7C454D);}
+.heading_tasks img{background:linear-gradient(60deg, #ffa726, #D37400);}
+.heading_complete img{background:linear-gradient(60deg, #1F01B9 , #170187);}
+.heading_used img{background:linear-gradient(60deg, #F1A208 , #C68605);}
+.heading_real img{background:linear-gradient(60deg, #FC440F , #D1370C);}
 
 .small_head img{margin-left:-15px;}
 .small_head {font-size:16px;}
+
+.box_content{text-align:center;
+				padding-top:10px;
+				font-weight:bold;
+				font-size:14px;
+}
+
+.details_of_processing{float:left;
+					 margin-top:40px;
+					 margin-left:20px;
+}
+
+.exin_details{margin-top:00px;}
+
+.row_of_details{
+				height:40px;
+				width:170px;
+				margin-top:15px;
+				padding-left:10px;
+				padding-top:10px;
+				border-radius:3px;
+}
+
+.imp_detail{background-color:rgba(230,230,230,0.35);}
+
+.head_of_details{
+				 font-size:12px;
+				 height:10px;
+				 line-height:10px;
+				 color: #BABABA;
+}
+
+.body_of_details{
+				height:30px;
+				line-height:30px;
+				margin-left:10px;
+				font-weight:bold;
+				font-size:14px;
+}
