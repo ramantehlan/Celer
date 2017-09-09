@@ -72,6 +72,7 @@
 				</div>
 			</div>
 
+
 			<div class='content'>
 				<a href='app.php?page=a_dashboard'>
 				<div class='tag'>
@@ -97,7 +98,7 @@
 							Distribution
 						</div>
 						<div class='step_about'>
-								Using our API we will utilize unused processing power of your users.
+								Using our API we will utilize untaped processing power of your users.
 						</div>
 				</div>
 				<div class='step'>
