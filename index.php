@@ -21,6 +21,8 @@
 			<img src='assets/images/icon_64_white.png'>
 			Celer
 		</div>
+
+		
 	</div>
 
 	<div class='body'>
@@ -31,6 +33,9 @@
 					We process your program on a decentralized network of distributed devices.
 			</div>
 			<div class='content'>
+				<div class='tag'>
+					Business users
+				</div>
 				<div class='step'>
 						<div class='step_img'>
 							<img src='assets/images/upload.png'>
@@ -50,7 +55,7 @@
 							Process
 						</div>
 						<div class='step_about'>
-								We will convert your program in a parallel program to process it on our network at a much faster rate.
+								Your program get converted in a parallel program to process it on our network at a much faster rate.
 						</div>
 				</div>
 				<div class='step'>
@@ -59,6 +64,45 @@
 						</div>
 						<div class='step_name'>
 							Result
+						</div>
+						<div class='step_about'>
+								See your results on your account with rich amount of data visualization.
+						</div>
+				</div>
+			</div>
+
+			<div class='content'>
+				<div class='tag'>
+					App/API developers
+				</div>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/upload.png'>
+						</div>
+						<div class='step_name'>
+							API implemented
+						</div>
+						<div class='step_about'>
+								Upload your program and required data to our servers.
+						</div>
+				</div>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/processor.png'>
+						</div>
+						<div class='step_name'>
+							Distribution
+						</div>
+						<div class='step_about'>
+								We will convert your program in a parallel program to  process it on our network at a much faster rate.
+						</div>
+				</div>
+				<div class='step'>
+						<div class='step_img'>
+							<img src='assets/images/experiment-results.png'>
+						</div>
+						<div class='step_name'>
+							Revenue Paid
 						</div>
 						<div class='step_about'>
 								See your results on your account with rich amount of data visualization.
