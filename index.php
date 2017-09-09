@@ -9,7 +9,6 @@
 
 	<script type="text/javascript" src='assets/javascript/jquery.js'></script>
 	<script type="text/javascript" src='assets/javascript/jquery-ui.js'></script>
-	<script type="text/javascript" src='assets/javascript/index.js'></script>
 </head>
 <body>
 
@@ -33,9 +32,11 @@
 					We process your program on a decentralized network of distributed devices.
 			</div>
 			<div class='content'>
+				<a href='app.php?page=b_dashboard'>
 				<div class='tag'>
 					Business users
 				</div>
+				</a>
 				<div class='step'>
 						<div class='step_img'>
 							<img src='assets/images/upload.png'>
@@ -72,40 +73,42 @@
 			</div>
 
 			<div class='content'>
+				<a href='app.php?page=a_dashboard'>
 				<div class='tag'>
 					App/API developers
 				</div>
+				</a>
 				<div class='step'>
 						<div class='step_img'>
-							<img src='assets/images/upload.png'>
+							<img src='assets/images/api.png'>
 						</div>
 						<div class='step_name'>
 							API implemented
 						</div>
 						<div class='step_about'>
-								Upload your program and required data to our servers.
+								Use our API to embed it in your app and we will handle the rest.
 						</div>
 				</div>
 				<div class='step'>
 						<div class='step_img'>
-							<img src='assets/images/processor.png'>
+							<img src='assets/images/global-distribution-with-circular-arrow.png'>
 						</div>
 						<div class='step_name'>
 							Distribution
 						</div>
 						<div class='step_about'>
-								We will convert your program in a parallel program to  process it on our network at a much faster rate.
+								Using our API we will utilize unused processing power of your users.
 						</div>
 				</div>
 				<div class='step'>
 						<div class='step_img'>
-							<img src='assets/images/experiment-results.png'>
+							<img src='assets/images/coin.png'>
 						</div>
 						<div class='step_name'>
 							Revenue Paid
 						</div>
 						<div class='step_about'>
-								See your results on your account with rich amount of data visualization.
+								We will pay you according to the processing power you provided us.
 						</div>
 				</div>
 			</div>
