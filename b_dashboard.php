@@ -23,7 +23,7 @@
                             </div>
                             <div class='row_of_details'>
                                 <div class='head_of_details capital'>Network size</div> 
-                                <div class='body_of_details' id='prerec_content'>1403</div>
+                                <div class='body_of_details' id='prerec_content'>2123 Devices</div>
                             </div>
                             <div class='row_of_details imp_detail'>
                                 <div class='head_of_details capital'>Completed Task</div> 
