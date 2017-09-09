@@ -65,21 +65,6 @@
     
         </div>
 
-        <div class='group_13' >
-                <div class='box_body' style="margin-bottom:50px;">
-                        <div class="box_body_top">
-                                <div class="box_heading heading_tasks capital">
-                                    <img src="assets/images/sales_pie.png" > Tasks
-                                </div>
-                        </div>
-                        <div id='task_box'>
-                            <canvas id="task_chart" ></canvas>
-                        </div>
-                </div>
-                        
-                        
-               
-        </div>
 
 
 <script type="text/javascript">
@@ -282,6 +267,24 @@ var hover = {
         }
  }
 
+
+ var data = new Array();
+
+ for(var i = 0; i < 12; i++){
+    data.push(Math.floor(Math.random() * 1000));
+ }
+
+ function reload(){
+    data.shift();
+    data.push(Math.floor(Math.random() * 1000));
+
+    processing_flow.data.datasets[0].data = data;
+    processing_flow.update(50);
+ }
+
+ var loop = setInterval(reload , 1000)
+
+
 //for font
 Chart.defaults.global.defaultFontColor = "#ADADAD";
 Chart.defaults.global.defaultFontFamily = "roboto-r";
@@ -300,40 +303,15 @@ Chart.defaults.global.onResize = null;
 
 // for processing
 var ctx_1 = document.getElementById("processing_chart");
-var ctx_2 = document.getElementById("task_chart");
-
-var task_chart = new Chart(ctx_2, { 
-        type: 'doughnut',
-        data: {
-        labels: ["Completed Task" , "Ongoing Task" , "Failed Task"],
-        datasets: [{
-            label: "",
-            data: [530 , 43 , 30],
-            backgroundColor: <?php echo $colorset_2; ?>,
-            borderColor: <?php echo $colorset_2; ?>,
-            borderWidth: 0,
-            hoverBorderWidth: 2
-        }]
-    },
-    options: {hover: hover,
-              animation: animation,
-              legend: legend,
-              layout: layout,
-              title: title,
-              tooltips:tip('task')
-
-    }
-
- });
 
 var processing_flow = new Chart(ctx_1, {
     type: 'line',
     data: {
-        labels:["Hour 1","Hour 2","Hour 3","Hour 4","Hour 5","Hour 6","Hour 7","Hour 8","Hour 9","Hour 10","Hour 11","Hour 12"],
+        labels:["","","","","","","","","","","",""],
         datasets: [{
             type:"line",
-            label: "Processing",
-            data: [ 450,243,234,234,123,543 , 234,643 , 943,543,432,794],
+            label: "Real-Time Processing",
+            data: data,
             fill: true,
             backgroundColor: "#563F1B",
             lineTension: 0.2,
@@ -343,8 +321,8 @@ var processing_flow = new Chart(ctx_1, {
             pointHitRadius:3,
             pointHoverRadius: 3,
 
-            pointBorderColor: "#935016",
-            pointBackgroundColor: "#935016",
+            pointBorderColor: "#1C1408",
+            pointBackgroundColor: "#1C1408",
             pointBorderWidth: 1,
             pointHoverBorderWidth: 2,
 
@@ -353,7 +331,7 @@ var processing_flow = new Chart(ctx_1, {
             
         }
         ] ,
-        xLabels: ["1","2","3","4","5","6","7","8","9","10","11","12"] ,
+        xLabels: ["","","","","","","","","","","",""] ,
         yLabels: [] ,
     },
     options: {
