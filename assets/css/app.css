@@ -166,3 +166,70 @@
 				font-weight:bold;
 				font-size:14px;
 }
+
+
+/******************8
+Upload_form
+****************/
+
+.form{
+	background-color:#fff;
+	border-radius:3px;
+	padding:20px;
+	width:400px;
+	margin:0px auto;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.05), 0 1px 0 rgba(0, 0, 0, 0.05);
+    color:#754C4E;
+}
+
+.form_heading{font-size:18px;
+			font-family: gotham-l;
+			font-weight:bold;
+			text-align:center;
+}
+
+
+.form_body{
+			margin-top:40px;
+}
+
+
+
+.input{width:100%;  
+		height:30px;
+		line-height:30px;
+		border-radius:3px; 
+}
+
+.submit{ 
+                height:40px;
+                padding-left:30px;
+                padding-right:30px;
+                background-color:#5e96dc;
+                border:0px;
+                border-radius:3px;
+                -moz-border-radius:3px;
+                -webkit-border-radius:3px;
+                font-size:14px;
+                font-weight:bold;
+                cursor:pointer;
+                display:inline-block;
+                color:#BAE9FF;
+                outline:none;
+                transition: all .2s ease;
+                font-family:quicksand-b;
+                margin:0px auto;
+                margin-top:20px;
+}
+
+.submit:hover {
+                background-color:#456EA1;
+                outline:none;
+}
+
+.submit:active {
+  position:relative;
+  top:1px;
+}
+
+
