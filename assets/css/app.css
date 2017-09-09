@@ -11,6 +11,14 @@
 				  /*border-bottom:1px solid rgba(0, 0, 0, 0.1);*/
 }
 
+.api_top{background-color:#4A73DB;
+}
+
+.api_top .page_name{color:white;}
+
+.api_top .subscription_alert{background-color:#fff;
+							 color:#000;
+}
 
 .page_name{height:50px;
 		   line-height:50px;
@@ -43,6 +51,34 @@
 
 
 .body{
+	width:1000px;
+	margin:0px auto;
 	margin-top:80px;
-	margin-left:100px;
 }
+
+
+.group_0{height:140px;
+		margin-top:-10px;
+		 margin-bottom:20px;
+}
+
+.group_1{height:452px;
+		 margin-bottom:20px;
+}
+
+.group_2{
+		 height:430px;
+		 margin-bottom:40px;
+}
+
+.cards{width:380px;
+	  margin-left:20px;
+	  margin-top:20px;
+	   float:left;
+}
+
+.heading_total img{background:linear-gradient(60deg, #6C91C2, #6C28D9);}
+.heading_active img{background:linear-gradient(60deg, #A49966, #A4A11C);}
+
+.small_head img{margin-left:-15px;}
+.small_head {font-size:16px;}
