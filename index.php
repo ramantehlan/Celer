@@ -98,7 +98,7 @@
 							Distribution
 						</div>
 						<div class='step_about'>
-								Using our API we will utilize untaped processing power of your users.
+								Using our API we will utilize untapped processing power of your users.
 						</div>
 				</div>
 				<div class='step'>
