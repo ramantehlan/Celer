@@ -94,7 +94,7 @@ Date of creation:09/09/2017
  		<div class="leftmenu_row tooltip_object <?php if($page_file == "b_dashboard.php"){echo "leftmenu_row_selected";} ?>" >
 				
 				<div class='leftmenu_row_icon'>
-						<img src="assets/images/app_dashboard.png">
+						<img src="assets/images/app_dashboard2.png">
 				</div>
 				
 				<div class="tooltip_box menu_tooltip_box">
@@ -123,7 +123,7 @@ Date of creation:09/09/2017
  		<div class="leftmenu_row tooltip_object <?php if($page_file == "a_dashboard.php"){echo "leftmenu_row_selected";} ?>" >
 				
 				<div class='leftmenu_row_icon'>
-						<img src="assets/images/app_dashboard.png">
+						<img src="assets/images/app_dashboard2.png">
 				</div>
 				
 				<div class="tooltip_box menu_tooltip_box">
