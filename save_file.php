@@ -2,7 +2,7 @@
 	
 	if(isset($_FILES['program'])){
 		if($_FILES['program']['tmp_name']){
-			if(move_uploaded_file($_FILES['program']['tmp_name'], "uploads/" . "sample.java" )){
+			if(move_uploaded_file($_FILES['program']['tmp_name'], "uploads/" . "Sample.java" )){
      											
      									echo "done";
      		}else{
