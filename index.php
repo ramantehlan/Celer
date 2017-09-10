@@ -26,7 +26,7 @@
 
 	<div class='body'>
 			<div class='heading'>
-					Unlock the true power of your program
+					Unlock the true power of your solution
 			</div>
 			<div class='sub_heading'>
 					We process your program on a decentralized network of distributed devices.
