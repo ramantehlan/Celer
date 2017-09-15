@@ -36,10 +36,11 @@ GNU General Public License v3.0
 
 # Screenshots
 
-![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_1.JPG)
-![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG)
-![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG)
-![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG)
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_1.JPG" width="450"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG" width="450"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG" width="450"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG" width="450"/>
+
 
 <p align="center">
   <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png" width="350"/>
