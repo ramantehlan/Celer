@@ -1,6 +1,7 @@
 ![Techstars heading](https://ramantehlan.github.io/Celer/assets/heading.PNG)
 
 <p align="center">
+  <img src ="https://ramantehlan.github.io/Celer/assets/heading.PNG" width="400" />
   <img src ="https://ramantehlan.github.io/Celer/assets/celer_logo.png" />
 </p>
 
@@ -26,6 +27,11 @@ For MVP I used only mobile devices and created API for app developers to embed i
      
      API to request the program from server to process and send output back to business users.
 
+# Challenges for celer
+
+ - ##### Power
+
+
 # Contribution
 
 Feel free to add any new feature or improve any current feature, any kind of help is appreciated!
@@ -36,8 +42,10 @@ GNU General Public License v3.0
 
 # Screenshots
 
-<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_1.JPG" width="450"/>
-<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG" width="450"/>
-<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG" width="450"/>
-<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG" width="450"/>
+<p>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_1.JPG" width="435"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG" width="435"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG" width="435"/>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG" width="435"/>
 <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png" width="350"/>
+  </p>
