@@ -26,6 +26,14 @@ For MVP I used only mobile devices and created API for app developers to embed i
      
      API to request the program from server to process and send output back to business users.
 
+# Contribution
+
+Feel free to add any new feature or improve any current feature, any kind of help is appreciated!
+
+# License
+
+GNU General Public License v3.0
+
 # Screenshots
 
 ![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_1.JPG)
