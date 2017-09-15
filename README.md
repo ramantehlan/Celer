@@ -6,19 +6,18 @@
 
 
 # Celer
-Celer helps businesses to distribute their processing across the devices connected to the Internet.
+Celer distributes processing across the devices connected to the Internet.
 
 # About 
-I created this project for **Startup weekend by Techstars** as a MVP. Celer utize  the free processing power of devices connected to internet and use it for processing 
+I created this project for **Startup weekend by Techstars** as an MVP. Celer utilizes the free processing power of devices connected to the internet and uses it for processing programs of business users. 
+
+For MVP I used only mobile devices and created API for app developers to embed it in their app instead of ads, I also created two dashboards, one for business users and another one for API users.
+
+- ***Business users dashboard***
 
 
-# Installation
+- ***API users dashboard***
 
-# Backstory
-
-#### You probably don't want to read it
-
-#### What's in it for you
 
 # Screenshots
 
@@ -26,4 +25,7 @@ I created this project for **Startup weekend by Techstars** as a MVP. Celer utiz
 ![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG)
 ![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG)
 ![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG)
-![Screenshot](https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png)
+
+<p align="center">
+  <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png" width="350"/>
+</p>
