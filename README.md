@@ -14,10 +14,17 @@ I created this project for **Startup weekend by Techstars** as an MVP. Celer uti
 For MVP I used only mobile devices and created API for app developers to embed it in their app instead of ads, I also created two dashboards, one for business users and another one for API users.
 
 - ***Business users dashboard***
-
+     
+     Business users can upload their program here and keep a track on the completed tasks. 
 
 - ***API users dashboard***
-
+     
+     App developers can check the strength of their network and check their revenue based on the processing power they provided through
+      their user base.
+      
+- ***API for APP developers*** [*[Android API]*](https://github.com/ramantehlan/Celer-API)
+     
+     API to request the program from server to process and send output back to business users.
 
 # Screenshots
 
