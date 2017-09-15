@@ -40,8 +40,4 @@ GNU General Public License v3.0
 <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_2.JPG" width="450"/>
 <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_3.JPG" width="450"/>
 <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_4.JPG" width="450"/>
-
-
-<p align="center">
-  <img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png" width="350"/>
-</p>
+<img src ="https://ramantehlan.github.io/Celer/assets/Screenshot_app_1.png" width="350"/>
