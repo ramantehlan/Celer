@@ -3,7 +3,7 @@
 This is to get the required page according to the demand 
 
 Author: Raman Tehlan
-Date of creation:09/09/2017
+Date of creation:14/10/2017
 */
 
 	if(isset($_GET['page'])){
