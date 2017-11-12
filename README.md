@@ -22,9 +22,12 @@ For MVP I used only mobile devices and created API for app developers to embed i
      App developers can check the strength of their network and check their revenue based on the processing power they provided through
       their user base.
       
-- **API for APP developers** [*[Android API]*](https://github.com/ramantehlan/Celer-API)
+- **API for APP developers** 
      
      API to request the program from server to process and send output back to business users.
+     
+     - [*[Celer-Android-App]*](https://github.com/ramantehlan/Celer-Android-App)
+     - [*[Celer-Android-App-v2]*](https://github.com/ramantehlan/Celer-Android-App-v2)
 
 # Challenges for celer
 
